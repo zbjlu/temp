@@ -2,6 +2,6 @@
 
 vscode:
 
-GitHub Token: c36bc54d3174a38046d0609e9a994f9aac5da2ce
-GitHub Gist: 25dd606e0a5474e571390a5570180d23
+GitHub Token: 02638e213ea3cb312e4492750a220033d596b84d
+GitHub Gist: 40002df63df39b1465eed57dd78a500d
 GitHub Gist Type: Secret
