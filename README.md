@@ -2,7 +2,7 @@
 
 vscode:
 
-GitHub Gist: 83bc0f519ffc8a7d14a96a56daeee648
+GitHub Gist: 5f9cb7fb115c2f9283a0667c79c4d26a
 
 ubuntu tools:
 
