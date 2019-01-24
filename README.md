@@ -21,3 +21,7 @@ http://wps-community.org/download.html
 http://www.chinatax.gov.cn/n810219/n810744/n3752930/index.html
 如填写中有任何问题,可直接拨打 12366 纳税服务热线或当地
 税务机关办税服务厅咨询
+
+repeater apps:
+
+https://unisoc.github.io/demos/wifi_repeater/
