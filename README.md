@@ -18,6 +18,8 @@ ID:
 pwd:
 s84c1q
 
+
+
 zephyr wiki:
 
 IoT: Zephyr & Mcuboot
@@ -26,6 +28,7 @@ mkdir zephyr && cd zephyr
 repo init -u gitadmin@gitmirror.spreadtrum.com:sprd_IoT/zephyr -b unsc_marlin3_mcu
 repo sync --no-tags -cq -j8
 repo start --all unsc_marlin3_mcu
+
 Setting Environment
 Install the required packages in a Ubuntu host system with:
 
@@ -34,6 +37,9 @@ sudo apt-get install --no-install-recommends git cmake ninja-build gperf \
   python3-ply python3-pip python3-setuptools python3-wheel xz-utils file \
   make gcc-multilib autoconf automake libtool libffi-dev libssl-dev mtools \
   gcc-multilib g++-multilib
+  
+  
+  
 Install additional packages required for development with Zephyr:
 
 cd zephyr  # or to your directory where zephyr is cloned
@@ -43,6 +49,7 @@ pip3 --default-timeout=100 install --user -r scripts/requirements.txt
 pip3 install --user cryptography paramiko IntelHex idna
 For more details, please follow the guideline below.
  http://docs.zephyrproject.org/getting_started/getting_started.html
+
 
 Building
 make
