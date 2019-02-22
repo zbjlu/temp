@@ -63,8 +63,8 @@ For more details, please follow the guideline below.
  http://docs.zephyrproject.org/getting_started/getting_started.html
  
 
-
 Building
 make
 After the compilation, the binaries can be found under dir build/images.
 Note:the building environment will be extracted automatically for the first time.
+
