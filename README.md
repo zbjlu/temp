@@ -32,7 +32,7 @@ Downloading source code
 
 mkdir zephyr && cd zephyr
 
-repo init -u gitadmin@gitmirror.spreadtrum.com:sprd_IoT/zephyr -b unsc_marlin3_mcu
+repo init -u https://github.com/unisoc/manifests.git -b master
 
 repo sync --no-tags -cq -j8
 
