@@ -1,7 +1,0 @@
-export PATH=$ZEPHYR_SDK_INSTALL_DIR/sysroots/x86_64-pokysdk-linux/usr/bin/arm-zephyr-eabi:$PATH
-
-export ZEPHYR_TOOLCHAIN_VARIANT=zephyr
-export ZEPHYR_SDK_INSTALL_DIR=/opt/zephyr-sdk
-
-# export ZEPHYR_TOOLCHAIN_VARIANT=gnuarmemb
-# export GNUARMEMB_TOOLCHAIN_PATH="~/gnu_arm_embedded"
