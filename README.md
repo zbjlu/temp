@@ -76,3 +76,8 @@ make
 After the compilation, the binaries can be found under dir build/images.
 Note:the building environment will be extracted automatically for the first time.
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++======+++++++++++++++++++++++++++
+
+#zircon资料
+
+https://fuchsia.dev/fuchsia-src/zircon/ddk
