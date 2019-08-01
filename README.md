@@ -78,6 +78,6 @@ Note:the building environment will be extracted automatically for the first time
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++======+++++++++++++++++++++++++++
 
-#zircon资料
+# zircon资料
 
 https://fuchsia.dev/fuchsia-src/zircon/ddk
