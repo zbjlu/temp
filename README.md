@@ -82,3 +82,8 @@ Note:the building environment will be extracted automatically for the first time
 
 https://fuchsia.dev/fuchsia-src/zircon/ddk
 
+# 加速ipc/rpc性能
+
+http://delivery.acm.org/10.1145/3330000/3322218/p671-du.pdf?ip=121.12.147.248&id=3322218&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E83F2654D43953101%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1565427651_417503d92dd5159d82d32fa5dd64caf8
+
+https://ipads.se.sjtu.edu.cn/_media/publications/skybridge-eurosys19.pdf
