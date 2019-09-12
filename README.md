@@ -93,3 +93,8 @@ https://ipads.se.sjtu.edu.cn/_media/publications/skybridge-eurosys19.pdf
 https://developer.tizen.org/development/api-references/native-application?redirect=https://developer.tizen.org/dev-guide/5.0.0/org.tizen.native.mobile.apireference/group__CAPI__TELEPHONY__INFORMATION.html
 
 https://nodejs.org/zh-cn/docs/
+
+# 2019年谷歌开发者大会视频
+
+谷歌开发者大会 整个视频: 
+https://www.bilibili.com/video/av67381317/
